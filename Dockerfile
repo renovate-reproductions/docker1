@@ -1,1 +1,1 @@
-FROM node:20.10.0
+FROM renovate/renovate:37.300.0
